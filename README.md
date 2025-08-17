@@ -6,3 +6,7 @@ Moddb page: https://www.moddb.com/mods/portal-revolution-google-translate-editio
 # Playing the Translation
 
 Move the `Resource` folder to the `Revolution` folder in the Game files, And then lauch the game with `-Language Google`
+
+# Progress
+revolution_google.txt - Mostly Done
+subtitles_google.txt - Line 65
