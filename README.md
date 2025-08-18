@@ -9,7 +9,7 @@ Move the `Resource` folder to the `Revolution` folder in the Game files, And the
 
 # Progress
 - revolution_google.txt - Mostly Done 
-- subtitles_google.txt - Line `106`
+- subtitles_google.txt - Line `118`
 
 # Contributors 
 Abbie In Space (aka. Cool__Cheese) - Project Lead
